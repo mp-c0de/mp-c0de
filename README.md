@@ -181,7 +181,7 @@ Most iOS developers are fresh graduates with only academic projects. **I bring:*
 - 📧 **Email:** [mpcode@icloud.com](mailto:mpcode@icloud.com)
 - 📱 **Phone:** 07564 244082
 - 📍 **Location:** London, UK
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [Connect with me](http://www.linkedin.com/in/mpc0de)
 
 ---
 
