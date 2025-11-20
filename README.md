@@ -56,7 +56,9 @@ I'm a **final-year BSc Computer Science student** at the University of Greenwich
 
 ## 📱 Featured Projects
 
-### 🏥 [PowerHeartTracker](https://github.com/mp-c0de/PowerHeartTracker)
+> **Note:** My project repositories are currently private as they are in active development. Full code access, detailed documentation, and live demos are available to potential employers upon request.
+
+### 🏥 PowerHeartTracker
 Professional fitness app with **Bluetooth Low Energy** heart rate monitor integration
 - 🔹 Real-time BPM tracking with CoreBluetooth
 - 🔹 Advanced training metrics (TRIMP, TSS)
@@ -67,7 +69,7 @@ Professional fitness app with **Bluetooth Low Energy** heart rate monitor integr
 
 ---
 
-### 💳 [ThorneShop](https://github.com/mp-c0de/ThorneShop)
+### 💳 ThorneShop
 Full-featured e-commerce platform with **Stripe payment processing**
 - 🔹 Secure Stripe SDK integration
 - 🔹 JWT authentication with Keychain storage
@@ -78,7 +80,7 @@ Full-featured e-commerce platform with **Stripe payment processing**
 
 ---
 
-### 🎰 [CasinoRotaScheduler](https://github.com/mp-c0de/CasinoRotaScheduler)
+### 🎰 CasinoRotaScheduler
 Proof-of-concept shift management system for casino operations
 - 🔹 Complex SwiftData relationships (employees, tables, shifts)
 - 🔹 Timeline visualization for dealer assignments
@@ -89,7 +91,7 @@ Proof-of-concept shift management system for casino operations
 
 ---
 
-### 🤖 [BusinessAssistantHub](https://github.com/mp-c0de/BusinessAssistantHub)
+### 🤖 BusinessAssistantHub
 Enterprise AI platform with 12 specialized business assistants
 - 🔹 Google Gemini API integration
 - 🔹 **Streaming API responses** with Server-Sent Events (SSE)
@@ -100,7 +102,7 @@ Enterprise AI platform with 12 specialized business assistants
 
 ---
 
-### 📊 [StockPortfolioMonitor](https://github.com/mp-c0de/StockPortfolioMonitor)
+### 📊 StockPortfolioMonitor
 Real-time stock tracking application
 - 🔹 Alpha Vantage API integration
 - 🔹 Async/await networking patterns
@@ -111,7 +113,7 @@ Real-time stock tracking application
 
 ---
 
-### 🎮 [RiseOfKingdoms-AllianceTracker](https://github.com/mp-c0de/RiseOfKingdoms-AllianceTracker)
+### 🎮 RiseOfKingdoms-AllianceTracker
 Alliance management tool for Rise of Kingdoms mobile game
 - 🔹 Complex SwiftData relationship mapping
 - 🔹 PhotosUI integration for member avatars
