@@ -244,7 +244,6 @@ Most junior developers are fresh graduates with only academic projects. **I brin
 ## 📫 Get In Touch
 
 - 📧 **Email:** [mpcode@icloud.com](mailto:mpcode@icloud.com)
-- 📱 **Phone:** 07564 244082
 - 📍 **Location:** London, UK
 - 💼 **LinkedIn:** [Connect with me](http://www.linkedin.com/in/mpc0de)
 
