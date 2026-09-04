@@ -11,6 +11,8 @@
 
 </div>
 
+**Currently:** Senior Software Engineer at Gym Factory, Šiauliai — Laravel/Filament backend, Flutter mobile, production security & ops. MPCODE continues alongside for selected client work.
+
 ---
 
 ## About MPCODE
@@ -35,10 +37,10 @@ Before working full-time in software, I spent 17+ years in regulated operational
 ## Core Stack
 
 **Languages**
-Swift • Rust • TypeScript • Python
+Swift • PHP • Dart • Rust • TypeScript • Python
 
 **Frameworks**
-SwiftUI • Next.js • Axum • React
+Laravel • Filament • Flutter • SwiftUI • Next.js • Axum • React
 
 **Infrastructure**
 AWS • Docker • Nginx • Linux
@@ -50,6 +52,7 @@ HealthKit • CoreBluetooth • PyTorch
 
 ## Selected Work
 
+- **Global gym directory & certification platform** — Built end to end and launch-ready: data pipeline curating 22,000+ venues across 95+ countries, interactive Mapbox mapping, 3D/AR venue viewer, admin panel and mobile client. Laravel · Filament · Flutter · MySQL.
 - **Custom Startup Platform** — Full-stack platform in active development for a startup client: public website, admin tools, backend API, database, authentication, deployment, and production infrastructure. Next.js · TypeScript · Rust · PostgreSQL/MySQL · AWS · Linux · Nginx.
 - **Real-time heart rate tracking app** — iPhone + Apple Watch, multi-source HRM with Dynamic Island support. SwiftUI · HealthKit · CoreBluetooth.
 - **AI-powered tools** — Practical apps built on top of LLM APIs and on-device speech models.
