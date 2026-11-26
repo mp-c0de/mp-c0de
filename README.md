@@ -21,6 +21,7 @@ The code behind these is private: it is either my employer's or a commercial pro
 #### Public work
 
 - [Security news](https://mpcode.dev/news/) in English and [Lithuanian](https://mpcode.dev/lt/naujienos/). The pipeline behind it uses a confined agent to triage advisories and draft articles; nothing publishes without my review.
+- [`security-news-agent`](https://github.com/mp-c0de/security-news-agent): the watcher, the confined agent and the deploy gate behind those articles, with the threat model and what each red-team probe missed.
 - [Six small apps on the App Store](https://apps.apple.com/gb/developer/id1816574561) (iOS, watchOS, macOS), in Swift and SwiftUI.
 
 The older public repositories are from 2025, mostly university coursework.
