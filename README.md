@@ -1,67 +1,34 @@
-# Hi, I'm Martynas
+### Martynas Prascevicius
 
-<div align="center">
+Senior full-stack engineer in Šiauliai, Lithuania. I build and run production systems end to end: APIs, web front ends, Flutter and Swift apps, Stripe payments and the Linux servers underneath.
 
-**MPCODE — Independent Software Development Practice**
-**iOS · Web · Backend · Cloud Infrastructure**
+A check doesn't count until I've seen it fail on a broken input, and live changes are rehearsed on a copy with a tested way back.
 
-[![Website](https://img.shields.io/badge/Website-mpcode.dev-000?style=flat&logo=safari)](https://mpcode.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mpc0de)
-[![Email](https://img.shields.io/badge/Email-mpcode%40mpcode.dev-red?style=flat&logo=gmail)](mailto:mpcode@mpcode.dev)
+**Now:** Senior Software Engineer at [Gym Factory](https://gymfactory.eu/) · founder of [MPCODE](https://mpcode.dev/)
 
-</div>
+#### Systems I run
 
-**Currently:** Senior Software Engineer at Gym Factory, Šiauliai — Laravel/Filament backend, Flutter mobile, production security & ops. MPCODE continues alongside for selected client work.
+| | What | Stack |
+|---|---|---|
+| [gfverified.com](https://gfverified.com/) | Gym directory and certification platform, with [iOS](https://apps.apple.com/gb/app/id6787701789) and [Android](https://play.google.com/store/apps/details?id=com.gfverified.app) apps | Laravel 13, Filament 5, MySQL 8, Flutter |
+| [gymfactory.eu](https://gymfactory.eu/) | B2B shop in 8 languages | WordPress, WooCommerce, WPML |
+| [gfvwear.com](https://gfvwear.com/) | Online shop with Stripe | Laravel 13, Filament 5, Stripe |
+| [manogimine.lt](https://manogimine.lt/) | Family-tree service (my own) | Rust, Axum, SQLite, htmx, D3.js |
+| [grafikas360.lt](https://grafikas360.lt/) | Staff rotas and statutory leave (my own) | Rust, Axum, PostgreSQL with row-level security, FastAPI, Svelte |
 
----
+The code behind these is private: it is either my employer's or a commercial product.
 
-## About MPCODE
+#### Public work
 
-MPCODE is an independent software development practice building production-ready apps, websites, backend APIs, and internal systems for businesses and startups.
+- [Security news](https://mpcode.dev/news/) in English and [Lithuanian](https://mpcode.dev/lt/naujienos/), drafted from an automated advisory watcher and reviewed before anything is published.
+- [Six small apps on the App Store](https://apps.apple.com/gb/developer/id1816574561) (iOS, watchOS, macOS), in Swift and SwiftUI.
 
-My work covers the full product path — planning, interface design, backend development, deployment, and ongoing improvement. The goal is always practical software that is clean, reliable, secure, and easy to use, and that can actually ship.
+The older public repositories are from 2025, mostly university coursework.
 
-Before working full-time in software, I spent 17+ years in regulated operational environments. That background shaped how I work today: clear communication, attention to detail, reliability under pressure, and respect for secure, well-structured systems.
+#### Stack
 
----
+TypeScript · Python · Rust · PHP (Laravel, Filament) · Dart (Flutter) · Swift · PostgreSQL · MySQL · SQLite · nginx · Cloudflare · GitHub Actions
 
-## What I Build
+[mpcode@mpcode.dev](mailto:mpcode@mpcode.dev) · [LinkedIn](https://www.linkedin.com/in/mpc0de/) · [mpcode.dev](https://mpcode.dev/)
 
-- **iOS Apps** — Native Apple platform apps built with Swift, SwiftUI, SwiftData, HealthKit, and modern Apple frameworks.
-- **Web Platforms** — Business websites, SaaS-style platforms, dashboards, landing pages, and customer-facing web apps.
-- **Backend Systems** — Secure APIs, authentication, databases, admin tools, automation, and deployment on Linux cloud infrastructure.
-- **MVPs for Startups** — From idea to working product: planning, design, development, deployment, and iteration.
-
----
-
-## Core Stack
-
-**Languages**
-Swift • PHP • Dart • Rust • TypeScript • Python
-
-**Frameworks**
-Laravel • Filament • Flutter • SwiftUI • Next.js • Axum • React
-
-**Infrastructure**
-AWS • Docker • Nginx • Linux
-
-**Other**
-HealthKit • CoreBluetooth • PyTorch
-
----
-
-## Selected Work
-
-- **Global gym directory & certification platform** — Built end to end and launch-ready: data pipeline curating 22,000+ venues across 95+ countries, interactive Mapbox mapping, 3D/AR venue viewer, admin panel and mobile client. Laravel · Filament · Flutter · MySQL.
-- **Custom Startup Platform** — Full-stack platform in active development for a startup client: public website, admin tools, backend API, database, authentication, deployment, and production infrastructure. Next.js · TypeScript · Rust · PostgreSQL/MySQL · AWS · Linux · Nginx.
-- **Real-time heart rate tracking app** — iPhone + Apple Watch, multi-source HRM with Dynamic Island support. SwiftUI · HealthKit · CoreBluetooth.
-- **AI-powered tools** — Practical apps built on top of LLM APIs and on-device speech models.
-- **Backend APIs** — Production services built in Rust with JWT authentication and MySQL.
-
----
-
-## Links
-
-- Website: [mpcode.dev](https://mpcode.dev/)
-- LinkedIn: [linkedin.com/in/mpc0de](https://www.linkedin.com/in/mpc0de)
-- Email: [mpcode@mpcode.dev](mailto:mpcode@mpcode.dev)
+<sub>Made by mpcode</sub>
