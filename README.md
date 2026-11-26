@@ -2,7 +2,7 @@
 
 Senior full-stack engineer in Šiauliai, Lithuania. I build and run production systems end to end: APIs, web front ends, Flutter and Swift apps, Stripe payments and the Linux servers underneath.
 
-A check doesn't count until I've seen it fail on a broken input, and live changes are rehearsed on a copy with a tested way back.
+I work through coding agents, and the specification, the review and the release stay with me. A check doesn't count until I've seen it fail on a broken input, live changes are rehearsed on a copy with a tested way back, and hooks refuse mistakes I've already made once.
 
 **Now:** Senior Software Engineer at [Gym Factory](https://gymfactory.eu/) · founder of [MPCODE](https://mpcode.dev/)
 
@@ -20,14 +20,14 @@ The code behind these is private: it is either my employer's or a commercial pro
 
 #### Public work
 
-- [Security news](https://mpcode.dev/news/) in English and [Lithuanian](https://mpcode.dev/lt/naujienos/), drafted from an automated advisory watcher and reviewed before anything is published.
+- [Security news](https://mpcode.dev/news/) in English and [Lithuanian](https://mpcode.dev/lt/naujienos/). The pipeline behind it uses a confined agent to triage advisories and draft articles; nothing publishes without my review.
 - [Six small apps on the App Store](https://apps.apple.com/gb/developer/id1816574561) (iOS, watchOS, macOS), in Swift and SwiftUI.
 
 The older public repositories are from 2025, mostly university coursework.
 
 #### Stack
 
-TypeScript · Python · Rust · PHP (Laravel, Filament) · Dart (Flutter) · Swift · PostgreSQL · MySQL · SQLite · nginx · Cloudflare · GitHub Actions
+TypeScript · Python · Rust · PHP (Laravel, Filament) · Dart (Flutter) · Swift · PostgreSQL · MySQL · SQLite · nginx · Cloudflare · GitHub Actions · Claude Code
 
 [mpcode@mpcode.dev](mailto:mpcode@mpcode.dev) · [LinkedIn](https://www.linkedin.com/in/mpc0de/) · [mpcode.dev](https://mpcode.dev/)
 
